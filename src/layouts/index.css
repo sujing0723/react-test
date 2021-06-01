@@ -1,0 +1,16 @@
+.header {
+  border-bottom: '1px solid #c6c6ce';
+  background-color: #fff;
+}
+.title {
+  text-align: center;
+}
+.title-content {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 8px;
+  line-height: 47px;
+}
+.content {
+  margin: 10px 40px;
+}

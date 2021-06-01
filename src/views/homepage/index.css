@@ -1,0 +1,33 @@
+.ant-card-cover>* {
+  display: block;
+  width: 100%;
+}
+.ant-col-18 .ant-card .ant-card-head .ant-card-head-wrapper .ant-card-head-title {
+  color: #1890ff !important;
+}
+.ant-col-6 {
+  display: block;
+  flex: 0 0 25%;
+  max-width: 23% !important;
+}
+.recommend-blog-card {
+  margin-top: 15px;
+}
+.ranking-title {
+  text-align: center;
+  display: block;
+  font-size: 18px;
+  font-weight: 600;
+}
+.ranking-list {
+  line-height: 30px;
+  height: 30px;
+}
+.iconfont-top-three {
+  font-size: 17px !important;
+  color: #fb7a0c;
+}
+.ranking-list .list-font {
+  font-size: 15px;
+  margin-left: 5px;
+}
